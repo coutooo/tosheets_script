@@ -26,7 +26,7 @@ The script simplifies the process of transferring data from a text file (in this
    ```bash
    python tosheets_script.py
    
-   ## Acknowledgments
+## Acknowledgments
 
 - [gspread](https://github.com/burnash/gspread) - Google Sheets API for Python
 - [pandas](https://pandas.pydata.org/) - Data manipulation and analysis library for Python
